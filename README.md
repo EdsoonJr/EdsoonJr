@@ -25,17 +25,19 @@
 <br>
 
 
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="center" >
-    <a href="https://www.instagram.com/portaltech_oficial/">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/instagram-gitbutton.svg" height="31">
+     <a href="mailto:edsonjn2013@gmail.com">   
+	 <img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/gmail.svg" height=60px> </img>
     </a>
-    <a href="mailto:portaltechgit@gmail.com">
-        <img src="https://github.com/Portal-Tech/vectors0/blob/main/gmail-gitbutton.svg" height="31">
+    <a href="https://www.instagram.com/edsoon.jr_/">
+        <img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/instagram.svg" height=60px> </img>
     </a>
+    <a href="https://www.linkedin.com/in/edson-junior-002170230/">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=60px> </img>   
+    </a>	 
+   
  <p>
 
 
@@ -59,19 +61,12 @@
 </p>
 
 
- ### 👉 Software & Tools
+ ### 🖥️ Software & Tools
  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=60px/>
 <img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/githubicon%20(2).svg" height=60px/>
-
-</p>
-
- ### 👉 IDEs
- 
-<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=60px/>
-
 <img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/eclipse.svg" height=60px/>
 </p>
 
