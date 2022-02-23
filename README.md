@@ -12,8 +12,9 @@
 
 ## :sassy_man:  About me
 - :school: I am a computer science student at Uninassau Faculty
-- :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
+- <img src= "https://github.com/EdsoonJr/EdsoonJr/blob/main/uol_icon-icons.com_61638.svg" height="25px"/> Participating in the Compass Oul Scholarship Program
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25px"/> Studying creating apis with node js
 
 
 <br>
@@ -25,7 +26,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/conect.svg" height="40px"/> Connect with me
 
 <p align="center" >
      <a href="mailto:edsonjn2013@gmail.com">   
@@ -43,17 +44,17 @@
 
 
 
-## 🛠️ My Skills
+## <img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/skills.svg" height="40px" /> My Skills
 
 <p align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=60px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=60px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=60px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height=60px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60px" />
 
 
 
@@ -64,10 +65,13 @@
  ### 🖥️ Software & Tools
  
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=60px/>
-<img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/githubicon%20(2).svg" height=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=60px/>
-<img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/eclipse.svg" height=60px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60px"/>
+<img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/githubicon%20(2).svg" height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60px"/>
+<img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/eclipse.svg" height="60px"/>
+<img src="https://github.com/EdsoonJr/EdsoonJr/blob/main/postman.svg" height="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="60px" />
+
 </p>
 
 <br/>
