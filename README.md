@@ -10,8 +10,9 @@
 </p>
 
 
-## :sassy_man:  About me
-- :school: I am a computer science student at Uninassau Faculty
+## 💁‍♂️  About me
+- :school: I am a Computer Science Student at Uninassau Faculty
+- 🔧 Computer Technician
 - :technologist: I love using Software as a solution for every `Problem`
 - <img src= "https://github.com/EdsoonJr/EdsoonJr/blob/main/uol_icon-icons.com_61638.svg" height="25px"/> Participating in the Compass Oul Scholarship Program
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25px"/> Studying Creating API'S With Node JS
